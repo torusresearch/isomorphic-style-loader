@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "isomorphic-style-loader",
+  "name": "@toruslabs/isomorphic-style-loader",
   "version": "5.3.2",
   "description": "CSS style loader for Webpack optimized for critical path CSS rendering and isomoprhic web apps",
   "repository": "kriasoft/isomorphic-style-loader",
@@ -38,8 +38,8 @@
     "prop-types": "^15.7.2"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.3.3",
