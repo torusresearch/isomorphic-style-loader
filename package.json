@@ -1,6 +1,6 @@
 {
   "name": "@toruslabs/isomorphic-style-loader",
-  "version": "5.3.3",
+  "version": "5.4.0",
   "description": "CSS style loader for Webpack optimized for critical path CSS rendering and isomoprhic web apps",
   "repository": "kriasoft/isomorphic-style-loader",
   "author": "Kriasoft <hello@kriasoft.com> (https://www.kriasoft.com)",
